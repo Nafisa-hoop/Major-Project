@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788656830570",
+    "project_id": "splitter1-72e83",
+    "storage_bucket": "splitter1-72e83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788656830570:android:c7ca88a80b1a08de827213",
+        "android_client_info": {
+          "package_name": "com.example.splitnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa-89GjHlEyhY_mBa9QRu7gkHTsCZFNW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
